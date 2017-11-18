@@ -1,0 +1,15 @@
+{
+    "/js/frontend.js": "/js/frontend.js?id=fbd66f09f2d1cb937888",
+    "/css/frontend.css": "/css/frontend.css?id=f7167488fd8249fc6633",
+    "/css/backend.css": "/css/backend.css?id=385d2078b5f7a77dc406",
+    "/js/backend.js": "/js/backend.js?id=87a837bcf13a25d7f546",
+    "/js/backend/music/album.js": "/js/backend/music/album.js?id=be40af6be4d6ae6e2477",
+    "/js/backend/music/single.js": "/js/backend/music/single.js?id=b970eac7ca1ff9caf7c2",
+    "/js/backend/music/general.js": "/js/backend/music/general.js?id=5a63728f556bef5c647b",
+    "/js/backend/music/track.js": "/js/backend/music/track.js?id=45049de2863debb31566",
+    "/js/backend/music/category.js": "/js/backend/music/category.js?id=896d752a9e1da7910f25",
+    "/js/backend/music/genre.js": "/js/backend/music/genre.js?id=f617d90c08f6b7352a38",
+    "/js/backend/music/crawl.js": "/js/backend/music/crawl.js?id=004dd1499012bea04e6a",
+    "/js/backend/music/artist.js": "/js/backend/music/artist.js?id=ff270d5f859fdb782a26",
+    "/css/vendor/vue-multiselect/vue-multiselect.min.css": "/css/vendor/vue-multiselect/vue-multiselect.min.css?id=029068fc196c5b95282b"
+}
